@@ -1,0 +1,33 @@
+.box{
+	width: 100px
+	height: 100px;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+
+.header{
+	min-height: 10px;
+	background-color: red;
+}
+.container{}
+.blog{
+	width: 60%;
+	float: left;
+	min-height: 100px;
+	background-color: green;
+}
+.contact{
+	width: 35%;
+	float: right;
+	min-height: 100px;
+	background-color: blue;
+}
+.footer{
+	min-height: 80px;
+	background-color: black;
+}
+
